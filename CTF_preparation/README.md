@@ -35,6 +35,16 @@
 - gdb
 - pwntools
 
+## CTF 일정
+### 2021년 8월
+- [InCTF](https://ctf.bi0s.in/) : 21.08.13. 21:30 - 15. 21:30
+- [Hacker's Playground 2021](https://playground.sstf.site/) : 21.08.16. 06:00 - 17. 06:00 `삼성 주관 대회`
+- [WORMCON](https://capturetheflag.vulnfreak.org/) : 21.08.28. 19:30 - 29. 19:30
+
+### 팀
+아이디 : ludere
+팀 : 1FleetCert
+
 ## 화이트햇 콘테스트 write up
 [2015 화이트햇 콘테스트](https://blog.kimtae.xyz/80)  
 [2015 화이트햇 콘테스트_pdf](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wlstngus0504&logNo=220518198898)  
