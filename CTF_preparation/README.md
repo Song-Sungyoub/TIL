@@ -10,7 +10,7 @@
 - 자바스크립트
 - Heap, malloc
 - ROP
-- 
+- [쉘스크립트](https://mug896.github.io/bash-shell/index.html)
 
 ## Pwnable
 - 쉘코드
