@@ -1,19 +1,25 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
+class Rectangle{
+public:
+	int width;
+	int height;
+	int isSquare();
+};
+
+Rectangle::Rectangle(){
+
+}
+
 int main(){
-	cout<<"이름은?";
-	string name;
-	getline(cin, name);
-	cout<<"주소는?";
-	string address;
-	getline(cin, address);
-	cout<<"나이는?";
-	string age;
-	getline(cin, age);
+	Rectangle rect1;
+	Rectangle rect2(3,5);
+	Rectangle rect3(3);
 
-
-	cout<<name<<' '<<address<<' '<<age<<endl;
+	if(rect1.isSquare()) cout<<"rect1은 정사각형이다."<<endl;
+	if(rect2.isSquare()) cout<<"rect2은 정사각형이다."<<endl;
+	if(rect3.isSquare()) cout<<"rect3은 정사각형이다."<<endl;
+	
 }
