@@ -1,2 +1,2 @@
-language = "cpp"
-run = "g++ -o main main.cpp;./main"
+language = "python"
+run = "python3 main.py"
