@@ -104,3 +104,10 @@ S-박스는 입력값과 출력값 사이의 관계가 수학적 관계로 정�
 ### 3중 DES
 
 # AES
+
+# 기타 대칭키 암호 알고리즘
+## 국제 암호 알고리즘
+### IDEA(International Data Encryption Algorithm)
+### RC5
+
+## 국내 암호 알고리즘
