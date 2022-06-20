@@ -35,7 +35,7 @@
   - 알고리즘
   - 포너블
   - FTZ, LOB Redhat, 드림핵, LOB Fedora, Pwnable.kr
-  - 쉘 스크립트, 배치 스크립트, vbscript, win32API
+  - 쉘 스크립트, PowerShell 스크립트, vbscript, win32API
   - 리눅스 마스터, 정보보안산업기사
   - 취약점 신고 버그바운티(네이버 등)
   - 블로그
